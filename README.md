@@ -1,3 +1,12 @@
+---
+title: Fake Job Detector
+emoji: 🚀
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: false
+---
+
 # PIH2026_Gamma
 1.Problem → Input/Output
 What goes in? (job posting text)
