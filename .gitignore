@@ -12,3 +12,5 @@ data/*.csv
 models/*.joblib
 models/*.pkl
 models/*.bin
+models/*.joblib
+
