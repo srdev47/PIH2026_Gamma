@@ -8,6 +8,8 @@ pinned: false
 ---
 
 # PIH2026_Gamma
+app link - https://pih2026gamma-kpdrgs7zjelrlvsqxnwjpq.streamlit.app/
+prototype - https://drive.google.com/file/d/19nkc2RIjgaoVnAvYRSLnBvPLcwMC5akV/view?usp=sharing
 1.Problem → Input/Output
 What goes in? (job posting text)
 What comes out? (Real/Fake + confidence + explanation)
