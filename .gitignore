@@ -9,3 +9,6 @@ wheels/
 # Virtual environments
 .venv
 data/*.csv
+models/*.joblib
+models/*.pkl
+models/*.bin
